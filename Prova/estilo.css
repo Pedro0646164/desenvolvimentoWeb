@@ -1,0 +1,28 @@
+html {
+    background-color: rgb(183, 232, 255);
+    position: relative;
+}
+header{
+    color: rgb(0, 89, 255);
+    position: relative;
+    bottom: 220px;
+    font-size: 150%;
+}
+h1{
+    color: rgb(0, 89, 255);
+    font-size: 300%;
+}
+img{
+    position: relative;
+    left: 300px;
+    bottom: 50px;
+    height: 240px;
+    width: 180px;
+}
+#divTudo{
+    background-color: rgb(147, 190, 255);
+    width: 1000px; 
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto; 
+}
